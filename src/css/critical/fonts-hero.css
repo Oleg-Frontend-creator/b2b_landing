@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Agrandir-extra-bold";
+    src: url("../assets/fonts/Agrandir-GrandHeavy.woff2") format("woff2");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Agrandir-bold";
+    src: url("../assets/fonts/Agrandir-bold.woff2") format("woff2");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Agrandir-regular";
+    src: url("../assets/fonts/Agrandir-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}

@@ -1,0 +1,26 @@
+:root {
+    --color-accent: #FFA800;
+    --color-accent-hover: #FFC850;
+    --color-accent-soft: rgba(255, 200, 80, .2);
+
+    --color-border: #A1AEBF;
+
+    --color-bg-primary: #000000;
+    --color-bg-soft: rgba(0, 0, 0, .6);
+
+    --color-text-primary: #FFFFFF;
+    --color-text-secondary: rgba(255, 255, 255, 0.6);
+    --color-text-inverse: #0F0F0F;
+
+    --container-width: 1300px;
+
+    --fs-text-1: 12px;
+    --fs-text-2: 14px;
+    --fs-text-3: 16px;
+    --fs-text-4: 18px;
+
+    --fs-header-1: 24px;
+    --fs-header-2: 32px;
+    --fs-header-3: 40px;
+    --fs-header-4: 60px;
+}

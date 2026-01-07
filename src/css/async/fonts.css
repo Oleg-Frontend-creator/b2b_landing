@@ -1,0 +1,55 @@
+@font-face {
+    font-family: "Agrandir-wide-light";
+    src: url("../assets/fonts/Agrandir-wide-light.woff2") format("woff2");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "quiksand-bold";
+    src: url("../assets/fonts/quicksand-bold.woff2") format("woff2");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "quiksand-medium";
+    src: url("../assets/fonts/quicksand-medium.woff2") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "quiksand-regular";
+    src: url("../assets/fonts/quicksand-regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "archivo-semibold";
+    src: url("../assets/fonts/archivo-semibold.woff2") format("woff2");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "archivo-medium";
+    src: url("../assets/fonts/archivo-medium.woff2") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "archivo-regular";
+    src: url("../assets/fonts/archivo-regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
