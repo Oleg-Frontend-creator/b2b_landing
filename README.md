@@ -29,17 +29,17 @@
 
 ### Общая структура
 
-src/
-├── assets/
-│   ├── images/        # изображения (webp)
-│   └── fonts/         # шрифты (woff2)
-├── css/
-│   ├── critical/      # стили первого экрана
-│   └── async/         # стили ниже hero
-├── scripts/
-│   ├── components/   # JS-компоненты
-│   └── pages/        # entry point страницы
-├── index.html
+src/  
+├── assets/  
+│   ├── images/        # изображения (webp)  
+│   └── fonts/         # шрифты (woff2)  
+├── css/  
+│   ├── critical/      # стили первого экрана  
+│   └── async/         # стили ниже hero  
+├── scripts/  
+│   ├── components/   # JS-компоненты  
+│   └── pages/        # entry point страницы  
+├── index.html  
 docs/                  # build (GitHub Pages)
 
 ---
