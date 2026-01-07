@@ -52,7 +52,7 @@ docs/                  # build (GitHub Pages)
 - полный контроль загрузки
 
 ### Как работает
-Происходит сборка проекта через webpack, в результате которой появляется два минифицированных файла: index-async.min.css и index-critical.min.css. 
+Происходит сборка проекта через webpack, в результате которой появляется два минифицированных файла: index-async.min.css и index-critical.min.css.  
 Ниже - то, что находится внутри каждого файла.
 - Критические стили (index-critical.min.css), содержат в себе:
   - reset
@@ -128,7 +128,7 @@ docs/                  # build (GitHub Pages)
 
 ## Автор
 
-Олег Галузинский
+Олег Галузинский  
 Frontend Developer
 
 ### Фокус:
