@@ -53,10 +53,8 @@ export function initCarousel(rootSelector) {
         [autoplay]
     );
 
-    // Кнопки (если они есть)
     document.querySelector(".keen-prev")?.addEventListener("click", () => slider.prev());
     document.querySelector(".keen-next")?.addEventListener("click", () => slider.next());
 
-    // На всякий случай при ресайзах/шрифтах
     window.addEventListener("resize", () => slider.update());
 }

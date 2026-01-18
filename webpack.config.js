@@ -1,4 +1,3 @@
-// webpack.config.js (фрагменты, остальное оставь как было)
 const path = require("path");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
