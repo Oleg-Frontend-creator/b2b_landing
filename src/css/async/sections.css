@@ -580,17 +580,8 @@
 }
 
 @media screen and (max-width: 1150px) {
-    .why-me .container {
-        justify-content: end;
-
-        .main-img {
-            position: absolute;
-            left: 50px;
-        }
-
-        .why-me-content {
-            max-width: 450px;
-        }
+    .why-me .container .why-me-content {
+        max-width: 450px;
     }
 
     .our-projects .container {
@@ -682,8 +673,8 @@
         }
 
         .main-img {
-            left: calc(50% - 170px);
-            top: 60px;
+            position: absolute;
+            transform: translateY(calc(50% - 210px));
         }
     }
 }
@@ -875,7 +866,7 @@
         justify-content: left;
 
         .main-img {
-            left: 12px;
+            transform: translateY(calc(50% - 175px));
 
             img {
                 width: 300px;
