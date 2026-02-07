@@ -19,15 +19,14 @@
 
 .blue-grid {
     position: absolute;
-    top: 0;
-    left: 0;
+    transform: translateY(0) translateX(0);
     height: 100%;
+    width: 100%;
     inset: 0;
     pointer-events: none;
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     column-gap: 32px;
-    width: 100%;
     max-width: var(--container-width);
     margin: 0 auto;
 }
